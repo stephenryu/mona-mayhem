@@ -130,7 +130,7 @@ Si quieres explorar más funcionalidades de Copilot CLI después del taller prin
 - Usa `/session` y `/session plan` para inspeccionar cómo el CLI está rastreando tu trabajo actual.
 <!-- track:cli:end -->
 
-## �� ¡Felicitaciones!
+## 🎊 ¡Enhorabuena!
 
 ¡Has completado el taller **Mona Mayhem: GitHub Battle**! Esto es lo que lograste:
 
@@ -155,7 +155,7 @@ Si quieres explorar más funcionalidades de Copilot CLI después del taller prin
 
 ### 🚀 Sigue Adelante
 
-- 📺 [Canal de YouTube de VS Code](https://www.youtube.com/@code) — Tips, tutoriales y novedades
+- 📺 [Canal de YouTube de VS Code](https://www.youtube.com/@code) — Consejos, tutoriales y novedades
 - 📖 [Documentación de GitHub Copilot](https://docs.github.com/en/copilot) — Documentación oficial y guías
 - 💻 [Documentación de GitHub Copilot CLI](https://docs.github.com/en/copilot/how-tos/copilot-cli) — Instalación, comandos slash y mejores prácticas
 - 🌟 [Awesome GitHub Copilot](https://github.com/stefanprodan/awesome-github-copilot) — Recursos y ejemplos de la comunidad
